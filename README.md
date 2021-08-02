@@ -1,5 +1,4 @@
-# <h1 align="center"> 
- ```GoSnippets```</h1>
+# ```GoSnippets```
 
 <h2 align="center">Connect with me at: </h2>
 
