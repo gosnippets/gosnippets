@@ -24,7 +24,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gosnippets&show_icons=true&theme=synthwave" alt="gosnippets :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gosnippets" alt="gosnippets"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gosnippets&theme=synthwave" alt="gosnippets"/></p>
 
 ---
 
