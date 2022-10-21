@@ -1,7 +1,6 @@
+<div align="center">
 # ```GoSnippets```
-
-<h2 align="center">Connect with me at: </h2>
-
+</div>
 <h1 align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+RDG.+I%27m+from+INDIA)](https://git.io/typing-svg)
@@ -21,6 +20,7 @@
   
 </div>
 
+<h2 align="center">Connect with me at: </h2>
 <p align="center"> 
   <a href="https://twitter.com/gosnippets">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="GoSnippets Twitter Profile" height="30" width="30">
@@ -29,8 +29,8 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="GoSnippets Facebook Page" height="30" width="30">
   </a>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
+<h3 align="center">Github stats :bar_chart:</h3>
+---
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{gosnippets}/count.svg" alt="gosnippets :: Visitor's Count" /></p>
