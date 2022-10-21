@@ -1,5 +1,11 @@
 <div align="center">
+
+```
+  
 # ```GoSnippets```
+
+```
+  
 </div>
 <h1 align="center">
   
@@ -30,7 +36,9 @@
   </a>
 
 <h3 align="center">Github stats :bar_chart:</h3>
+
 ---
+
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{gosnippets}/count.svg" alt="gosnippets :: Visitor's Count" /></p>
