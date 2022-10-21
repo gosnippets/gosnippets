@@ -4,7 +4,7 @@
 
 ```
   
-# ```GoSnippets```
+GoSnippets gosnippets.com
 
 ```
   
