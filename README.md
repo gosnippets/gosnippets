@@ -4,7 +4,7 @@
 
 ```
   
-GoSnippets gosnippets.com
+https://gosnippets.com
 
 ```
   
