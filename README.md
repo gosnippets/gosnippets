@@ -4,7 +4,7 @@
 
 ```
   
-https://gosnippets.com
+[https://gosnippets.com](https://gosnippets.com)
 
 ```
   
