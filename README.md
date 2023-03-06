@@ -1,10 +1,14 @@
 # ```GoSnippets```
 
+⭐️ From [@gosnippets](https://github.com/gosnippets)
+
 <div align="center">
+  
+ ⭐️ From [@gosnippets](https://github.com/gosnippets)
 
 ```
   
-[https://gosnippets.com](https://gosnippets.com)
+https://gosnippets.com
 
 ```
   
