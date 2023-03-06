@@ -15,11 +15,15 @@ https://gosnippets.com
 </h1>
 
 <div align="center">  
+  
   [![My Skills](https://skillicons.dev/icons?i=react,linux,js,ts,vscode,android)](https://skillicons.dev)  
+  
 </div>
 
 <div align="center">  
+  
   ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)   
+  
 </div>
 
 <h2 align="center">Connect with me at: </h2>
