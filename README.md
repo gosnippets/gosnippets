@@ -14,18 +14,12 @@ https://gosnippets.com
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+RDG.+I%27m+from+INDIA)](https://git.io/typing-svg)
 </h1>
 
-<div align="center">
-  
-  [![My Skills](https://skillicons.dev/icons?i=react,linux,js,ts,vscode,android)](https://skillicons.dev)
-  
+<div align="center">  
+  [![My Skills](https://skillicons.dev/icons?i=react,linux,js,ts,vscode,android)](https://skillicons.dev)  
 </div>
 
-<div align="center">
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
- 
-  [![gosnippets's github activity graph](https://activity-graph.herokuapp.com/graph?username=gosnippets&theme=react-dark)](https://gosnippets.com)
-  
+<div align="center">  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)   
 </div>
 
 <h2 align="center">Connect with me at: </h2>
